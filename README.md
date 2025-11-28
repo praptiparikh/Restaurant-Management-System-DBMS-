@@ -1,2 +1,3 @@
 # Restaurant-Management-System-DBMS-
-It is a Database Management System Project. It uses MySQL queries to perform CRUD operations. It also consist of an Entity Relationship Diagram about Restaurant Management System. Tables are created, deleted, updated based on the task mention using appropriate query for restaurant data.
+A Database Management System project designed to store, manage, and retrieve data for a restaurant using 14 interconnected tables. The system models real-world entities like Restaurant, Owner, Manager, Waiter, Chef, Orders, Menu Items (Starter, Main Course, Dessert), Customer, Billing, Cashier, Cleaners, and Guards.
+It includes attribute classification (simple, composite, multi-valued, derived), ER diagram concepts, generalization & specialization, participation constraints, and SQL operations like table creation, JOIN queries, and aggregate functions.
